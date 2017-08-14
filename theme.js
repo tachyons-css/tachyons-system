@@ -82,3 +82,5 @@ const theme = {
     'washed-red': '#ffdfdf',
   }
 }
+
+export default theme
