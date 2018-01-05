@@ -1,0 +1,13 @@
+{
+  "name": "tachyons-system",
+  "version": "0.0.1",
+  "description": "A Tachyons theme file for use with http://jxnblk.com/styled-system",
+  "main": "theme.js",
+  "repository": "tachyons-css/tachyons-system",
+  "keywords": [
+    "tachyons",
+    "styled-system",
+    "react"
+  ],
+  "license": "MIT"
+}
